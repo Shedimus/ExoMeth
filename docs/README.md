@@ -4,6 +4,8 @@ This repository is an accompaniment to the ExoMeth manuscript published in _to b
 
 Great care has been taken throughout this work to ensure reproducibility. As such, all code required to **quantitatively** reproduce the analyses presented can be found here, including the RMarkdown file to produce the final formatted manuscript as submitted for peer review. For those lacking computational resources or the suitable rights over their environment this project has been set up with a Binder instance and RStudio Server.
 
+This repository is the un-reviewed development version that I continure to work on and use for PRs to the *archival* version on the [UEA Cancer Genetics](https://github.com/UEA-Cancer-Genetics-Lab) page.
+
 ### Getting Started
 
 Multiple options exist for those interested in reproducing and investigating these analyses:
