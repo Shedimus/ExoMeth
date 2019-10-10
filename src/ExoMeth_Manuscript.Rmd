@@ -643,9 +643,11 @@ Resampling of ExoMeth predictions via estimation plots allowed for comparisons o
 ```{r DCA}
 # Set the parameters for resampling:
 set.seed(2903)
-### THIS HAS BEEN SET AT 100 FOR EASE OF BINDER COMPUTATION ###
+
+
 # It can be set back to 1000 to get the *exact* figures supplied in the manuscript
-iterations <- 1000
+iterations <- 100 ### THIS HAS BEEN SET AT 100 FOR EASE OF BINDER COMPUTATION ###
+
 sample_size <- nrow(ExoMeth_Cohort)
 
 # Need to set up the data a bit to conform by removing the CB men (they don't get biopsies):
