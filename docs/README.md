@@ -2,7 +2,7 @@
 
 This repository is an accompaniment to the ExoMeth manuscript published in _to be confirmed_, titled "Developing a multivariable risk model integrating urinary cell DNA methylation & cell-free RNA data for the detection of significant prostate cancer".
 
-All code required to **quantitatively** reproduce the analyses presented can be found here, including the RMarkdown file to produce the final formatted manuscript as submitted for peer review. 
+Great care has been taken throughout this work to ensure reproducibility. As such, all code required to **quantitatively** reproduce the analyses presented can be found here, including the RMarkdown file to produce the final formatted manuscript as submitted for peer review. For those lacking computational resources or the suitable rights over their environment this project has been set up with a Binder instance and RStudio Server.
 
 ### Getting Started
 
